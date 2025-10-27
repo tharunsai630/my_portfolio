@@ -1,0 +1,49 @@
+# Felipe Schmidt Portfolio Website
+
+A modern, responsive portfolio website for Felipe Schmidt, a Brazilian Front-end Developer and Computer Scientist.
+
+## Features
+
+- **Responsive Design**: Works perfectly on all device sizes
+- **Dark Mode Toggle**: Switch between light and dark themes
+- **Smooth Scrolling**: Navigation links smoothly scroll to sections
+- **Animated Components**: Fade-in animations as you scroll
+- **Modern Interface**: Clean, professional design with gradient accents
+
+## Sections
+
+1. **Hero**: Introduction and call-to-action
+2. **Skills**: Technical skills with progress bars
+3. **Projects**: Portfolio projects with descriptions
+4. **Timeline**: Career and education journey
+5. **Contact**: Contact form and information
+
+## Technologies Used
+
+- HTML5
+- CSS3 (with CSS Variables for theming)
+- Vanilla JavaScript
+- Font Awesome Icons
+
+## How to Use
+
+1. Download all three files (index.html, styles.css, script.js)
+2. Place them in the same folder
+3. Open index.html in a web browser
+
+## Customization
+
+To customize this portfolio for your own use:
+
+1. Update personal information in the HTML file
+2. Modify the color scheme by changing CSS variables in the :root selector
+3. Add your own projects and skills
+4. Update the timeline with your personal journey
+
+## Browser Support
+
+This website works in all modern browsers including:
+- Chrome
+- Firefox
+- Safari
+- Edge
