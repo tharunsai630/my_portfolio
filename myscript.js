@@ -201,4 +201,10 @@ document.addEventListener('DOMContentLoaded', function () {
             });
         });
     }
+
+    // Optimize gradient animation performance
+    const gradient = document.querySelector('.animated-gradient');
+    if (gradient) {
+        gradient.style.willChange = 'background-position';
+    }
 });
